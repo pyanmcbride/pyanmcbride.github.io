@@ -1,7 +1,8 @@
 .u-section-1 .u-sheet-1 {min-height: 320px}
-.u-section-1 .u-group-1 {width: 800px; min-height: 200px; height: auto; margin: 60px auto}
+.u-section-1 .u-group-1 {width: 800px; min-height: 200px; margin: 60px auto}
 .u-section-1 .u-container-layout-1 {padding: 30px 60px}
 .u-section-1 .u-text-1 {margin: 0}
+.u-section-1 .u-icon-1 {height: 64px; width: 64px; margin: 20px auto 0}
 .u-section-1 .u-text-2 {margin: 20px 0 0} 
 
 @media (max-width: 991px){ .u-section-1 .u-group-1 {width: 720px}

@@ -1,0 +1,74 @@
+.u-section-1 .u-sheet-1 {min-height: 320px}
+.u-section-1 .u-group-1 {width: 800px; min-height: 200px; margin: 60px auto}
+.u-section-1 .u-container-layout-1 {padding: 30px 60px}
+.u-section-1 .u-text-1 {margin: 0}
+.u-section-1 .u-text-2 {font-size: 1.25rem; margin: 20px 0 0} 
+
+@media (max-width: 991px){ .u-section-1 .u-group-1 {width: 720px}
+.u-section-1 .u-container-layout-1 {padding-left: 30px; padding-right: 30px} }
+
+@media (max-width: 767px){ .u-section-1 .u-group-1 {width: 540px}
+.u-section-1 .u-container-layout-1 {padding-left: 10px; padding-right: 10px} }
+
+@media (max-width: 575px){ .u-section-1 .u-group-1 {width: 340px} }.u-section-2 .u-sheet-1 {min-height: 600px}
+.u-section-2 .u-layout-wrap-1 {width: 901px; margin: 60px auto 60px 120px}
+.u-section-2 .u-image-1 {min-height: 511px; background-image: url("images/57e8d64a4e52aa14f6da8c7dda793678153bdee757596c48732f7bd2934ec359be_1280.jpg"); background-position: 50% 50%}
+.u-section-2 .u-container-layout-1 {padding: 30px 0}
+.u-section-2 .u-layout-cell-2 {min-height: 511px}
+.u-section-2 .u-container-layout-2 {padding: 30px}
+.u-section-2 .u-group-1 {width: 512px; min-height: 340px; background-image: none; margin: 141px auto -30px -91px}
+.u-section-2 .u-container-layout-3 {padding: 30px 60px}
+.u-section-2 .u-text-1 {margin: 56px 0 0}
+.u-section-2 .u-text-2 {margin: 20px 0 0} 
+
+@media (max-width: 1199px){ .u-section-2 .u-sheet-1 {min-height: 544px}
+.u-section-2 .u-layout-wrap-1 {margin-left: 39px}
+.u-section-2 .u-image-1 {min-height: 551px}
+.u-section-2 .u-layout-cell-2 {min-height: 551px}
+.u-section-2 .u-group-1 {width: 490px; min-height: 379px; margin-top: 142px; margin-left: -99px} }
+
+@media (max-width: 991px){ .u-section-2 .u-sheet-1 {min-height: 358px}
+.u-section-2 .u-layout-wrap-1 {margin-right: initial; margin-left: initial; width: auto}
+.u-section-2 .u-image-1 {min-height: 499px}
+.u-section-2 .u-layout-cell-2 {min-height: 499px}
+.u-section-2 .u-group-1 {width: 387px; min-height: 392px; margin-top: 77px; margin-left: -87px}
+.u-section-2 .u-container-layout-3 {padding-left: 30px; padding-right: 30px} }
+
+@media (max-width: 767px){ .u-section-2 .u-sheet-1 {min-height: 801px}
+.u-section-2 .u-image-1 {min-height: 660px}
+.u-section-2 .u-layout-cell-2 {min-height: 100px}
+.u-section-2 .u-container-layout-2 {padding-left: 10px; padding-right: 10px}
+.u-section-2 .u-group-1 {width: 470px; min-height: 346px; margin-top: -92px; margin-bottom: 0; margin-left: -10px}
+.u-section-2 .u-container-layout-3 {padding-left: 10px; padding-right: 10px} }
+
+@media (max-width: 575px){ .u-section-2 .u-sheet-1 {min-height: 574px}
+.u-section-2 .u-image-1 {min-height: 416px}
+.u-section-2 .u-group-1 {min-height: 378px; width: 320px} }.u-section-3 .u-sheet-1 {min-height: 144px}
+.u-section-3 .u-text-1 {font-weight: 700; animation-duration: 1000ms; margin: auto}
+.u-section-3 .u-layout-wrap-1 {margin: 0 0 1px}
+.u-section-3 .u-layout-cell-1 {min-height: 104px; animation-duration: 1000ms}
+.u-section-3 .u-container-layout-1 {padding: 0 30px 1px}
+.u-section-3 .u-icon-1 {height: 102px; width: 250px; background-image: none; animation-duration: 1000ms; margin: auto}
+.u-section-3 .u-layout-cell-2 {min-height: 104px}
+.u-section-3 .u-container-layout-2 {padding: 19px 30px}
+.u-section-3 .u-icon-2 {height: 65px; width: 253px; animation-duration: 1000ms; margin: auto} 
+
+@media (max-width: 1199px){ .u-section-3 {min-height: 174px}
+.u-section-3 .u-sheet-1 {min-height: 174px}
+.u-section-3 .u-text-1 {width: auto}
+.u-section-3 .u-layout-wrap-1 {margin-right: initial; margin-left: initial}
+.u-section-3 .u-layout-cell-1 {min-height: 86px}
+.u-section-3 .u-layout-cell-2 {min-height: 86px} }
+
+@media (max-width: 991px){ .u-section-3 {min-height: 140px}
+.u-section-3 .u-sheet-1 {min-height: 140px}
+.u-section-3 .u-layout-cell-1 {min-height: 100px}
+.u-section-3 .u-layout-cell-2 {min-height: 100px} }
+
+@media (max-width: 767px){ .u-section-3 {min-height: 240px}
+.u-section-3 .u-sheet-1 {min-height: 240px}
+.u-section-3 .u-layout-wrap-1 {margin-bottom: 11px; margin-right: initial; margin-left: initial}
+.u-section-3 .u-container-layout-1 {padding-left: 10px; padding-right: 10px}
+.u-section-3 .u-container-layout-2 {padding-left: 10px; padding-right: 10px} }
+
+@media (max-width: 575px){ .u-section-3 .u-layout-wrap-1 {position: relative; margin-right: initial; margin-left: initial} }

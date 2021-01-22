@@ -1,0 +1,60 @@
+@font-face {
+  font-family: 'Roboto Regular';
+  src: url('../fonts/Roboto-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Anton Regular';
+  src: url('../fonts/Anton-Regular.ttf') format('truetype');
+}
+
+nav {
+  font-family: 'Roboto Regular';
+  color: white;
+}
+
+body {
+  background-color: black;
+  font-family: 'Roboto Regular', Helvetica, sans-serif;
+  color: white;
+}
+
+footer {
+  font-family: 'Roboto Regular', Helvetica, sans-serif;
+  color: white;
+}
+
+article {
+  font-family: 'Roboto Regular', Helvetica, sans-serif;
+  color: white;
+  background-image: url('../images/dotbackground.gif');
+  background-repeat: repeat;
+  float: left;
+  width: 99%;
+  height: 80%;
+  padding: 10px;
+}
+
+.button {
+  background-color: black;
+  border: 1px solid white;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+hr {
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: solid;
+  border-width: 1px;
+  color: white;
+}
